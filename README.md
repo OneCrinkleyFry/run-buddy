@@ -1,16 +1,16 @@
 # Run Buddy, Inc.
 
 ## Purpose
-A website that offers fitness training service.
+A website that offers fitness training services. 
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
-Https://sithSlave.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Josh Miller
+Made with ❤️ by [your name]
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc 
