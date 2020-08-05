@@ -169,7 +169,6 @@ section {
     display: flex;
     align-items: center;
     Justify-content: space-between;
-    flex-wrap: wrap;
 }
 .step h3 {
     color: #024e76;
@@ -358,6 +357,9 @@ section {
     }
     .step-text {
         flex: 100%;
+    }
+    .step {  
+        flex-wrap: wrap;
     }
 }
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
