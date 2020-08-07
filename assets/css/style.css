@@ -344,6 +344,16 @@ section {
     top: 200px;
     transition: top 1s 0.7s;
 }
+.trainer-bio h3 {
+    font-size: 28px;
+    display:none;
+}
+.trainer-bio h4 {
+    font-weight: lighter;
+    font-size: 22px;
+    margin-bottom: 15px;
+    display:none;
+  }
 .trainer-bio p {
     font-size: 17px;
 }
@@ -582,6 +592,13 @@ section {
     .service-grid-item.both {
         grid-column: 1 / -1;
     }
+    .trainer-img::after, .trainer-img h3, .trainer-img h4 {
+        display: none;
+    }
+    .trainer-bio h3, .trainer-bio h4 {
+        display: block;
+    }
+
 }
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
